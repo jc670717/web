@@ -1,16 +1,68 @@
-verstion 1
+version 3
 
 # --------------
 # Please enter the commit message for your changes. Everything below
 # this paragraph is ignored, and an empty message aborts the commit.
 # Just close the window to accept your message.
-diff --git a/index2.html b/index2.html
-index dc3f4f5..e3ee244 100644
---- a/index2.html
-+++ b/index2.html
-@@ -1,4 +1,4 @@
--<!DOCTYPE html>
+diff --git a/COMMIT_EDITMSG.COMMIT_EDITMSG b/COMMIT_EDITMSG.COMMIT_EDITMSG
+index fd0995c..87a0d61 100644
+--- a/COMMIT_EDITMSG.COMMIT_EDITMSG
++++ b/COMMIT_EDITMSG.COMMIT_EDITMSG
+@@ -1,16 +1,24 @@
+-verstion 1
++version 2
+ 
+ # --------------
+ # Please enter the commit message for your changes. Everything below
+ # this paragraph is ignored, and an empty message aborts the commit.
+ # Just close the window to accept your message.
+-diff --git a/index2.html b/index2.html
+-index dc3f4f5..e3ee244 100644
+---- a/index2.html
+-+++ b/index2.html
+-@@ -1,4 +1,4 @@
+--<!DOCTYPE html>
++diff --git a/index3.html b/index3.html
++new file mode 100644
++index 0000000..e3ee244
++--- /dev/null
+++++ b/index3.html
++@@ -0,0 +1,11 @@
+ +<!DOCTYPE html> 
+- <html lang="en">
+- <head>
+- 	<meta charset="UTF-8">
+\ No newline at end of file
+++<html lang="en">
+++<head>
+++	<meta charset="UTF-8">
+++	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+++	<title>Document</title>
+++</head>
+++<body>
+++	
+++</body>
+++</html>
++\ No newline at end of file
+\ No newline at end of file
+diff --git a/index3.html b/index3.html
+new file mode 100644
+index 0000000..e3ee244
+--- /dev/null
++++ b/index3.html
+@@ -0,0 +1,11 @@
 +<!DOCTYPE html> 
- <html lang="en">
- <head>
- 	<meta charset="UTF-8">
++<html lang="en">
++<head>
++	<meta charset="UTF-8">
++	<meta name="viewport" content="width=device-width, initial-scale=1.0">
++	<title>Document</title>
++</head>
++<body>
++	
++</body>
++</html>
+\ No newline at end of file
+diff --git a/untitled b/untitled
+new file mode 100644
+index 0000000..e69de29
