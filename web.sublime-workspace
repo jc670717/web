@@ -1,0 +1,275 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"te",
+				"text-center"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"wi",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gi",
+				"Git: Log All"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"gc",
+				"Git: Commit"
+			],
+			[
+				"ga",
+				"Git: Add..."
+			],
+			[
+				"gl",
+				"Git: Log All"
+			],
+			[
+				"giti",
+				"Gitignore: New gitignore"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"gitl",
+				"Git: Log All"
+			],
+			[
+				"git ",
+				"Git: Track Remote Branch"
+			],
+			[
+				"gb",
+				"Git: New Branch"
+			],
+			[
+				"git: ",
+				"Git: Commit"
+			],
+			[
+				"git:init",
+				"Gitignore: New gitignore"
+			],
+			[
+				"gitignore",
+				"Gitignore: New gitignore"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 112.0,
+		"history":
+		[
+			"git init",
+			"git"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/leonchang/Desktop/web"
+	],
+	"file_history":
+	[
+		"/Users/leonchang/Desktop/web/index2.html",
+		"/Users/leonchang/Desktop/web/COMMIT_EDITMSG.COMMIT_EDITMSG",
+		"/Users/leonchang/Desktop/web/.gitignore",
+		"/Users/leonchang/Downloads/Shards-Dashboard-Pro-1.3.1-Standard 2 2/untitled",
+		"/Users/leonchang/Downloads/Shards-Dashboard-Pro-1.3.1-Standard 2 2/COMMIT_EDITMSG.COMMIT_EDITMSG",
+		"/Users/leonchang/Downloads/Shards-Dashboard-Pro-1.3.1-Standard 2 2/index.html",
+		"/Users/leonchang/Downloads/Shards-Dashboard-Pro-1.3.1-Standard 2 2/index2.html",
+		"/Users/leonchang/Downloads/Shards-Dashboard-Pro-1.3.1-Standard 2 2/.gitignore",
+		"/Users/leonchang/Desktop/Shards-Dashboard-Pro-1.3.1-Standard/sample_login.html",
+		"/Users/leonchang/Desktop/Shards-Dashboard-Pro-1.3.1-Standard/sample_index.html",
+		"/Users/leonchang/Desktop/Shards-Dashboard-Pro-1.3.1-Standard/styles/shards-dashboards.1.3.1.min.css",
+		"/Users/leonchang/Desktop/Shards-Dashboard-Pro-1.3.1-Standard/transaction-history.html",
+		"/Users/leonchang/Desktop/Shards-Dashboard-Pro-1.3.1-Standard/sample00.html",
+		"/Users/leonchang/Desktop/Shards-Dashboard-Pro-1.3.1-Standard/login.html",
+		"/Users/leonchang/Desktop/untitled.html",
+		"/Volumes/Storage/Dropbox/馬祖/新臺馬輪/html-馬祖web copy/css/style.css",
+		"/Volumes/Storage/Dropbox/馬祖/新臺馬輪/html-馬祖web copy/TicketSeat3.html",
+		"/Users/leonchang/Downloads/L@U7_info.bizSelfLog (1).log",
+		"/Users/leonchang/Downloads/L@U7_info.bizSelfLog.log"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "",
+	"project": "web.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
